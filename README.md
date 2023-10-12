@@ -1,5 +1,3 @@
-# keyword_generator_for_aso
-
 ```jsx
 function extractKeywords(titlesArray, exstingKeywordsArray, keywordsArray) {
   let existingKeywords = [...exstingKeywordsArray];
